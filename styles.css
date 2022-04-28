@@ -7,7 +7,6 @@
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  
   color: #000000;
   text-align: left;
   padding: 16px 16px;
@@ -28,9 +27,9 @@
 }
 
 .top-button {
-justify-content: flex-end;
+  justify-content: flex-end;
 }
 
 .expand {
-    flex-grow: 2;
+  flex-grow: 2;
 }
