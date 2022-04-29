@@ -53,3 +53,22 @@ h1 {
 h3 {
   font-weight: 400;
 }
+
+.title {
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+  align-items: flex-start;
+}
+
+div {
+  align-items: stretch;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gap {
+  column-gap: 80px;
+  padding-top: 10%;
+}
